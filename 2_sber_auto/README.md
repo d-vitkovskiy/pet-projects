@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/103372805/213569747-f1c3abb6-ae45-4482-8bb0-4251b692411c.png)
+
 # Предсказание совершения пользователем целевого действия на сайте
 
 ![tmp2943g1tv](https://user-images.githubusercontent.com/103372805/202800560-5b020e5d-5e22-4ea9-a05e-e40ca3fc2aa0.svg)
